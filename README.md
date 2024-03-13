@@ -6,3 +6,6 @@
 - XUnit Test Patterns: Refactoring Test Code by Gerard Meszaros.
 - Working Effectively with Legacy Code by Michael Feathers.
 - Test-Driven Development by Kent Beck.
+
+## Android Interview Resources
+- Interviewing at Staff+ level [Article](https://medium.com/@manuelvicnt/interviewing-at-staff-level-7a31836285e6) by [Manuel Vivo ](https://twitter.com/manuelvicnt)
